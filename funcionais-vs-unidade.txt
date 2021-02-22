@@ -1,0 +1,3 @@
+O escopo de um teste de unidade é o funcionamento de um trecho de código, enquanto testes funcionais buscam verificar o funcionamento de uma funcionalidade como um todo, ou seja, um nível mais abstrato e próximo das regras de negócio.
+
+Testes de unidade são feitos em grande quantidade, pois cobrem um trecho tipicamente menor do sistema. Além disso, são executados frequentemente e rapidamente. Já testes funcionais são mais raros, custosos e costumam envolver frameworks mais complexos, capazes de simular por exemplo o navegador acessando o sistema.
