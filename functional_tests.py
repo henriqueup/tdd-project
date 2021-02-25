@@ -38,7 +38,7 @@ class NewVisitorTest(unittest.TestCase):
         inputbox.send_keys(Keys.ENTER)
         time.sleep(1)
 
-        self.check_for_row_in_list_table('1: Estudar testes de unidade')
+        self.check_for_row_in_list_table('1: Estudar testes funcionais')
         
         # Ainda existe uma caixa de texto convidando para adicionar outro item
         # Ela digita: "Estudar testes de unidade"
